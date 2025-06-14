@@ -1,21 +1,22 @@
-# arquitectura-sistema-reservas-cloud
+# 🌩️ Arquitectura Sistema de Reservas en la Nube
+
 Proyecto de evaluación para diseñar y construir una arquitectura escalable, segura y eficiente en la nube.
 
-# Sistema de Reservas en la Nube ☁️✈️
+Este repositorio contiene el desarrollo completo del proyecto de evaluación para diseñar y construir una arquitectura cloud escalable, segura y eficiente.
 
-Este proyecto consiste en una arquitectura basada en microservicios para gestionar reservas de viajes, desplegada en AWS.
+## 🧩 Contenidos
 
-## 🚀 Tecnologías
-- AWS (EC2, S3, RDS)
-- Node.js / Python (microservicios)
-- MongoDB / PostgreSQL
+- `docs/`: Documentos del proyecto (informe técnico, pruebas, glosario)
+- `diagramas/`: Imágenes del diseño arquitectónico
+- `presentacion/`: Diapositivas para defensa o exposición
+- `codigo/`: Código de microservicios (o plantillas)
+- `recursos/`: Enlaces y referencias adicionales
 
-## 🛠️ Arquitectura
-![Diagrama de arquitectura](docs/arquitectura.png)
+## 🧠 Autora
 
-## 📦 Instalación
+Sandra González Navarrete  
+Ingeniera en Informática con foco en arquitectura cloud y un toque de caos estructurado 💥
 
-```bash
-git clone https://github.com/tuusuario/nombre-del-proyecto.git
-cd nombre-del-proyecto
-npm install
+## 📜 Licencia
+
+MIT
